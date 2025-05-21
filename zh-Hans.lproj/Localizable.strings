@@ -1,0 +1,72 @@
+//
+//  Localizable.strings
+//  DRM-X4-Batch-Encryption-Tool
+//
+//  Created by Jason on 2025/4/29.
+//
+
+// Localizable.strings (Simplified Chinese)
+"drmx_auto_encryption_tool" = "DRM-X 4.0 自动批量加密工具";
+"welcome" = "欢迎, ";
+"sign_out" = "退出";
+"manual_encryption" = "手动加密";
+"auto_encryption" = "自动加密";
+"drmx_account" = "DRM-X 4.0 账号";
+"web_auth_string" = "Web 服务验证码";
+"remember_login" = "记住登录";
+"please_enter_account_and_auth_string" = "请输入账号和验证码";
+"sign_in" = "登录";
+"sign_up" = " 注册";
+"tutorial" = "使用教程";
+"login_failed_please_check_network" = "登录失败，请检查账号信息和网络连接。";
+"input_directory" = "输入目录:";
+"select_input_directory" = "选择输入目录";
+"browse" = "浏览...";
+"output_directory" = "输出目录:";
+"select_output_directory" = "选择输出目录";
+"license_profile" = "许可证模板:";
+"create_folder_toggle" = "在输出目录下创建文件夹";
+"file_name" = "文件名";
+"input_path" = "输入目录";
+"output_path" = "输出目录";
+"file_size" = "文件大小";
+"status" = "状态";
+"start_encryption" = "开始加密";
+"cancel_encryption" = "取消加密";
+"cancel" = "取消";
+"auto_generated" = "将在加密时自动生成...";
+"tooltip_auto_generate" = "加密时会自动生成输出路径";
+"refresh" = "刷新";
+"open_input_folder" = "打开输入文件目录";
+"open_output_folder" = "打开输出文件目录";
+"account_type_not_supported" = "DRM-X 账号类型需高级版或以上账号";
+"account_or_code_incorrect" = "登录失败，DRM-X 4.0 账号或验证码错误";
+"login_failed_please_check" = "登录失败，请检查DRM-X 4.0 账号或验证码";
+
+"STATUS_PENDING" = "待加密";
+"STATUS_PROCESSING" = "加密中";
+"STATUS_COMPLETED" = "已完成";
+"STATUS_FAILED" = "失败";
+
+"cancel_confirmation_title" = "确认取消";
+"cancel_confirmation_message" = "确定要取消剩余文件的加密操作吗？";
+"confirm" = "确定";
+"cancel_success_title" = "操作已取消";
+"cancel_success_message" = "已取消列队后续加密";
+"ok" = "确定";
+
+"scan_directory" = "扫描目录:";
+"set_scan_directory" = "设置扫描目录";
+"start_scanning" = "开始扫描";
+"scanning" = "正在扫描...";
+"stop_scanning" = "停止扫描";
+"clear_list" = "清除列表";
+"scan_stopped_title" = "扫描已停止";
+"scan_stopped_message" = "已停止扫描和后续文件加密";
+"stop_scanning_confirmation_title" = "确认停止扫描";
+"stop_scanning_confirmation_message" = "确定要停止扫描和后续文件加密吗？";
+
+"close_window_title" = "确认关闭";
+"close_window_message" = "当前有正在进行的加密任务，关闭窗口将中断任务。确定要关闭吗？";
+
+"license_right" = "选择权限:";

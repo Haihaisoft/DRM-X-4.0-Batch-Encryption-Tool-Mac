@@ -1,0 +1,72 @@
+//
+//  Localizable.strings
+//  DRM-X4-Batch-Encryption-Tool
+//
+//  Created by Jason on 2025/4/29.
+//
+
+// Localizable.strings (English)
+"drmx_auto_encryption_tool" = "DRM-X 4.0 Automatic Batch Encryption Tool";
+"welcome" = "Welcome, ";
+"sign_out" = "Sign Out";
+"manual_encryption" = "Manual Encryption";
+"auto_encryption" = "Auto Encryption";
+"drmx_account" = "DRM-X 4.0 Account";
+"web_auth_string" = "Web Auth String";
+"remember_login" = "Remember Me";
+"please_enter_account_and_auth_string" = "Please enter account and Web Auth String";
+"sign_in" = "Sign In";
+"sign_up" = " Sign Up";
+"tutorial" = "Tutorial";
+"login_failed_please_check_network" = "Login failed, please check your account information and network connection.";
+"input_directory" = "Input Directory:";
+"select_input_directory" = "Select a input directory";
+"browse" = "Browse...";
+"output_directory" = "Output Directory:";
+"select_output_directory" = "Select a output directory";
+"license_profile" = "License Profile:";
+"create_folder_toggle" = "Create folder in output directory";
+"file_name" = "File Name";
+"input_path" = "Input Path";
+"output_path" = "Output Path";
+"file_size" = "File Size";
+"status" = "Status";
+"start_encryption" = "Start";
+"cancel_encryption" = "Cancel";
+"cancel" = "Cancel";
+"auto_generated" = "Will be generated automatically...";
+"tooltip_auto_generate" = "The output path will be generated during encryption";
+"refresh" = "Refresh";
+"open_input_folder" = "Open Input Folder";
+"open_output_folder" = "Open Output Folder";
+"account_type_not_supported" = "DRM-X 4.0 account type requires Premier account or above.";
+"account_or_code_incorrect" = "DRM-X 4.0 Account or Web Auth String is incorrect.";
+"login_failed_please_check" = "Login failed. Please check your account or verification code.";
+
+"STATUS_PENDING" = "Pending";
+"STATUS_PROCESSING" = "Processing";
+"STATUS_COMPLETED" = "Completed";
+"STATUS_FAILED" = "Failed";
+
+"cancel_confirmation_title" = "Confirm Cancellation";
+"cancel_confirmation_message" = "Are you sure you want to cancel the encryption of remaining files?";
+"confirm" = "Confirm";
+"cancel_success_title" = "Operation Cancelled";
+"cancel_success_message" = "Subsequent encryption tasks have been cancelled";
+"ok" = "OK";
+
+"scan_directory" = "Scan Directory:";
+"set_scan_directory" = "Set scan directory";
+"start_scanning" = "Start Scanning";
+"scanning" = "Scanning...";
+"stop_scanning" = "Stop Scanning";
+"clear_list" = "Clear list";
+"scan_stopped_title" = "Scanning Stopped";
+"scan_stopped_message" = "Scanning and subsequent file encryption have been stopped";
+"stop_scanning_confirmation_title" = "Confirm Stop Scanning";
+"stop_scanning_confirmation_message" = "Are you sure you want to stop scanning and subsequent file encryption?";
+
+"close_window_title" = "Confirm Close";
+"close_window_message" = "There are encryption tasks in progress. Closing the window will interrupt these tasks. Are you sure you want to close?";
+
+"license_right" = "License Right:";
