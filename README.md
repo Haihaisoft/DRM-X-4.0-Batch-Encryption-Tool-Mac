@@ -77,10 +77,10 @@ Output
  └── Beginner Animation Course
      └── 01-Course_Description_P.mp4
  	   └── 02-Software_interface_P.mp4
-  	 └── 03-Use_of_common_tools_P.mp4
+	   └── 03-Use_of_common_tools_P.mp4
  	   └── PDF
-     	    └── Course_Description_P.pdf
-     	    └── Course_Reference_P.pdf
+     	       └── Course_Description_P.pdf
+     	       └── Course_Reference_P.pdf
 ```
 
 
