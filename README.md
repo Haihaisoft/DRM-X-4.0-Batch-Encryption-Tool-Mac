@@ -182,18 +182,18 @@ Before using the automatic scanning and encryption function, you need to manuall
 ```
 Courses (Set the scan directory)
 	└── Basic-Courses
-    		└── 01-Course_Description.mp4
-    		└── 02-Software_interface.mp4
-    		└── 03-Use_common_tools.mp4
-    		└── PDF
-    				└── Course_Description.pdf
-    				└── Course_Reference.pdf
+    	    └── 01-Course_Description.mp4
+    	    └── 02-Software_interface.mp4
+    	    └── 03-Use_common_tools.mp4
+    	    └── PDF
+		└── Course_Description.pdf
+		└── Course_Reference.pdf
 	└── Advanced-Courses
-    	└── Videos
-    			└── Lesson_1.mp4
-    			└── Lesson_2.mp4
-    	└── PDF
-    			└── document.pdf
+    		└── Videos
+    		    └── Lesson_1.mp4
+    		    └── Lesson_2.mp4
+    		└── PDF
+    		    └── document.pdf
 ```
 
 After finishing the above folder structure, set the [Scan Directory] (that is, the path of the folder constructed above) and [Output Directory] (the designated path for storing encrypted files) in the [Auto Encryption] interface, and then click the [Start Scan] button. At this time, the program will automatically identify the top-level subfolders under the scan directory, and create corresponding License Profile in the DRM-X 4.0 account based on their names. In this example, the program will create 2 License Profile, named "Basic-Course" and "Advanced-Course". After encryption is completed, the output structure of the file is as follows:
@@ -205,14 +205,14 @@ Encrypted_Courses (Set the output directory)
     └── 02-Software_interface_P.mp4
     └── 03-Use_common_tools_P.mp4
     └── PDF
-    		└── Course_Description_P.pdf
-    		└── Course_Reference_P.pdf
+    	└── Course_Description_P.pdf
+    	└── Course_Reference_P.pdf
 └── Advanced-Courses
     └── Videos
-    		└── Lesson_1_P.mp4
-    		└── Lesson_2_P.mp4
+	└── Lesson_1_P.mp4
+	└── Lesson_2_P.mp4
     └── PDF
-    		└── document_P.pdf
+	└── document_P.pdf
 ```
 
 
@@ -251,10 +251,10 @@ When you upload a video file to the Videos folder in the course directory, or up
 Upload
  └── 105_Advanced-Courses
      └── Videos
-    	 		└── 01-Lesson_1.mp4
-       	 	└── 02-Lesson_2.mp4
+	└── 01-Lesson_1.mp4
+	└── 02-Lesson_2.mp4
      └── PDF
-    	 		└── Reference_Documentation.pdf
+	└── Reference_Documentation.pdf
 ```
 
 **Sample output structure:**
@@ -263,9 +263,9 @@ Upload
 Encrypted_Courses
  └── 105_Advanced-Courses
      └── Videos
-    	 		└── 01-Lesson_1_P.mp4
-    	 		└── 02-Lesson_2_P.mp4
+	└── 01-Lesson_1_P.mp4
+	└── 02-Lesson_2_P.mp4
      └── PDF
-    	 		└── Reference_Documentation_P.pdf
+	└── Reference_Documentation_P.pdf
 ```
 
